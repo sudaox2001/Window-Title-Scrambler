@@ -1,0 +1,5 @@
+c:\users\macbook\documents\visual studio 2012\Projects\WindowRandomizer\WindowRandomizer\bin\Debug\WindowRandomizer.exe.config
+c:\users\macbook\documents\visual studio 2012\Projects\WindowRandomizer\WindowRandomizer\bin\Debug\WindowRandomizer.exe
+c:\users\macbook\documents\visual studio 2012\Projects\WindowRandomizer\WindowRandomizer\bin\Debug\WindowRandomizer.pdb
+c:\users\macbook\documents\visual studio 2012\Projects\WindowRandomizer\WindowRandomizer\obj\Debug\WindowRandomizer.exe
+c:\users\macbook\documents\visual studio 2012\Projects\WindowRandomizer\WindowRandomizer\obj\Debug\WindowRandomizer.pdb
